@@ -1,0 +1,17 @@
+form{
+    border: solid 1px;
+    width: 600px;
+    margin-left: 550px;
+    background-color: #e9e997;
+    padding-left: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: #c94d4d;
+}
+label{
+    font-size: 25px;
+    font-weight: bold;
+    color: #00ffff;
+}
